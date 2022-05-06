@@ -10,3 +10,4 @@ Github Segédlet
 9. git add  readme.md - változtatások mentése (staging)
 10. git commit -m "first commit" - first commit hozzáadása
 11. git branch -m main - az ág átnevezésa main-re
+12. git push -u origin main - push
